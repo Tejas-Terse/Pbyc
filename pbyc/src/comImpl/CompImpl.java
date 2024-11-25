@@ -1,5 +1,7 @@
 package comImpl;
 
-public abstract class CompImpl {
+import Policy.Policy;
+
+public abstract class CompImpl implements Policy {
 
 }
